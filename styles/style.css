@@ -341,10 +341,10 @@
   box-sizing: border-box;
   background-color: #1f1f1f;
   padding: 60px 80px;
+  color: #fff;
 }
 
 .footer__columns {
-  color: #fff;
   display: flex;
 }
 
