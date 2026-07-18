@@ -1,9 +1,21 @@
-# Projeto 3: Biblioteca Triple Peaks
+# 📚 Biblioteca Triple Peaks
 
-A página da biblioteca Triple Peaks é o terceiro projeto no programa de desenvolvimento web da TripleTen. Ela foi criada usando HTML e CSS, com base no roteiro.
+## 📌 Descrição do Projeto
 
-## Recursos do projeto
+A **Biblioteca Triple Peaks** é um site desenvolvido para uma biblioteca imaginária, apresentando aos visitantes o espaço e as formas de participar da comunidade. O site conta com:
 
-- HTML5 semântico
-- Flexbox
-- Posicionamento
+- **Escolhas do Leitor** → seleção de livros com resenhas pessoais
+- **Agenda de eventos** da biblioteca
+- **Seção "Seja um membro"** com os passos para se cadastrar
+
+## 🚀 Tecnologias Utilizadas
+
+- **HTML e CSS** → Estruturação e estilização do site
+- **HTML5 semântico** → Uso de tags com significado para melhorar a estrutura e a acessibilidade
+- **Flexbox e posicionamento** → Construção do layout das seções e dos cartões
+
+## 🔧 Planos de Melhoria
+
+- **Responsividade** → Adaptar o layout para telas menores com media queries
+- **Animações e transições** → Aplicar efeitos suaves para tornar a navegação mais agradável
+- **Mais conteúdo** → Ampliar a lista de livros e eventos da biblioteca
