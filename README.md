@@ -4,7 +4,7 @@ Site de uma biblioteca comunitária fictícia, que apresenta o espaço e mostra 
 
 Demo ao vivo: [felipeguedds.github.io/web_project_library_pt](https://felipeguedds.github.io/web_project_library_pt/)
 
-Foi o projeto da Sprint 3 do bootcamp da TripleTen.
+Fiz esse projeto na Sprint 3 do bootcamp da TripleTen.
 
 ## Funcionalidades
 
