@@ -1,21 +1,16 @@
-# 📚 Biblioteca Triple Peaks
+# Biblioteca Triple Peaks
 
-## 📌 Descrição do Projeto
+Site de uma biblioteca comunitária fictícia, que apresenta o espaço e mostra como participar.
 
-A **Biblioteca Triple Peaks** é um site desenvolvido para uma biblioteca imaginária, apresentando aos visitantes o espaço e as formas de participar da comunidade. O site conta com:
+Demo ao vivo: [felipeguedds.github.io/web_project_library_pt](https://felipeguedds.github.io/web_project_library_pt/)
 
-- **Escolhas do Leitor** → seleção de livros com resenhas pessoais
-- **Agenda de eventos** da biblioteca
-- **Seção "Seja um membro"** com os passos para se cadastrar
+Foi o projeto da Sprint 3 do bootcamp da TripleTen.
 
-## 🚀 Tecnologias Utilizadas
+## Funcionalidades
 
-- **HTML e CSS** → Estruturação e estilização do site
-- **HTML5 semântico** → Uso de tags com significado para melhorar a estrutura e a acessibilidade
-- **Flexbox e posicionamento** → Construção do layout das seções e dos cartões
+O menu do topo leva para cada seção da página. Em Escolhas do Leitor ficam quatro livros com uma resenha curta de cada. A agenda mostra o próximo evento da biblioteca, e a seção Seja um membro explica o cadastro em quatro passos. O rodapé traz o horário de funcionamento e as redes sociais.
 
-## 🔧 Planos de Melhoria
+## Construído com
 
-- **Responsividade** → Adaptar o layout para telas menores com media queries
-- **Animações e transições** → Aplicar efeitos suaves para tornar a navegação mais agradável
-- **Mais conteúdo** → Ampliar a lista de livros e eventos da biblioteca
+- HTML semântico e CSS, com o CSS organizado em BEM
+- Flexbox e posicionamento para o layout das seções e dos cartões
